@@ -2,8 +2,8 @@
 
 My solution submission for the front end intern
 
-# Installation (if its not running)
+# Installation 
 
-npm install
+npm install next
 
 npm install ethers
